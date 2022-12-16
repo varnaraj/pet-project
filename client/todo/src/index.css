@@ -1,0 +1,32 @@
+
+
+.Heading{
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid #5B6DCD 5px;
+    display: flex;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    
+  }
+.b1{
+    margin-left: 100px;
+}
+
+.input{
+    width: 50%;
+    height: 50%;
+}
+.strike {
+    text-decoration: line-through;
+  }
+
+.normal{
+    text-decoration: solid;
+}
